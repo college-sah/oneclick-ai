@@ -1,0 +1,9 @@
+{
+  "name": "OneClickBG - AI Background Remover",
+  "description": "Remove image backgrounds automatically in one click with AI. Professional background remover, editor, transparent cutout generator, and SaaS API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
